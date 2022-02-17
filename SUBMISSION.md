@@ -13,7 +13,7 @@ out.
 
 Your GitHub Actions dashboard showing the unsuccessful build after the breaking
 change.
-
+![Screen Capture #4](images/FailedPOMAction.png)
 Your GitHub repository with the readme.md file selected showing the build failed
 status after the GitHub workflow fails.
 
