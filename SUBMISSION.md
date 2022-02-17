@@ -4,7 +4,7 @@ Your GitHub Actions dashboard showing a successful first build.
 ![Screen Capture #1](images/firstbuild.png)
 Your GitHub repository with the readme.md file selected showing the code that you
 changed to update the badge.
-
+![Screen Capture #2](images/readmereplace.png)
 Your GitHub repository with the readme.md file selected showing the build success
 status after you’ve updated the badge markdown.
 
