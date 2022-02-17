@@ -24,3 +24,4 @@ change has been fixed.
 ![Screen Capture #8](images/actionsfixedpom.png)
 Your GitHub repository with the readme.md file selected showing the build success
 status after the GitHub workflow has recovered.
+![Screen Capture #9](images/mavenpassing.png)
