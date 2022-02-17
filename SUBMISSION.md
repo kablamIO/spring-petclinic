@@ -1,5 +1,7 @@
-Your GitHub Actions dashboard showing a successful first build.
+Thomas Le 
 
+Your GitHub Actions dashboard showing a successful first build.
+![Screen Capture #1]()
 Your GitHub repository with the readme.md file selected showing the code that you
 changed to update the badge.
 
